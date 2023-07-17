@@ -50,4 +50,3 @@ def snipe() -> None:
 
 if __name__ == "__main__":
     snipe()
-    main()
